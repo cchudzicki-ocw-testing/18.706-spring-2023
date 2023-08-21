@@ -14,7 +14,7 @@ Lectures: 2 sessions / week, 90 minutes / session
 
 This is an introductory graduate course, although advanced undergraduates are also welcome to attempt it. Close familiarity with undergraduate algebra (groups, rings, modules etc.) will be assumed. 
 
-## Course Description
+## Course Description & Topics
 
 The beginning of the course will cover fundamental concepts forming the basic vocabulary of the algebraic language in today’s math. 
 
