@@ -43,7 +43,7 @@ The beginning of the course will cover fundamental concepts forming the basic vo
 
 ## Lecture Notes and Readings
 
-There is not required textbook for the course. A full set of lecture notes are provided.  Possible other references include:
+There is no required textbook. A full set of {{% resource_link "75424b2c-57f9-4d04-9f61-9ec776a9c3a0" "lecture notes" %}} are provided.  Possible other references include:
 
 - the book by P.M. Cohn “Further  Algebra and Applications” (chapters 2, 4, 5, 7, 8; an earlier edition of basically the same text is volumes 2,3 of the series “Algebra” by the same  author); 
 - C.A. Weibel “An introduction to homological algebra” and 
@@ -52,4 +52,4 @@ There is not required textbook for the course. A full set of lecture notes are p
 
 ## Assignments and Grading
 
-Biweekly homework assignments will be given.  Grades will be based on the homework.  Students are also invited to prepare an optional expository paper for extra credit.  There are no exams.
+Biweekly homework assignments will be given.  Grades will be based on the homework.  Students are also invited to prepare an {{% resource_link "35442035-9f5f-4870-a21f-523cf1d2cd4b" "optional expository paper" %}} for extra credit.  There are no exams.
