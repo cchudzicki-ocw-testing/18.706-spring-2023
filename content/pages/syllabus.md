@@ -45,7 +45,8 @@ The beginning of the course will cover fundamental concepts forming the basic vo
 
 There is no required textbook. A full set of {{% resource_link "75424b2c-57f9-4d04-9f61-9ec776a9c3a0" "lecture notes" %}} are provided.  Possible other references include:
 
-- the book by P.M. Cohn “Further  Algebra and Applications” (chapters 2, 4, 5, 7, 8; an earlier edition of basically the same text is volumes 2,3 of the series “Algebra” by the same  author); 
+- Cohn P. M. 2003. *Further Algebra and Applications*. London: Springer. ISBN: 9781852336677  
+    See chapters 2, 4, 5, 7, 8.  An earlier edition of basically the same text as volumes 2, 3 of the series “[Algebra](https://www.worldcat.org/title/8031629)” by the same  author.
 - C.A. Weibel “An introduction to homological algebra” and 
 - Notes by Prof. Mike Artin 
 - Notes by Prof. Pavel Etingof 
