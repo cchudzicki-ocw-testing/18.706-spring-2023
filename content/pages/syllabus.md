@@ -6,3 +6,44 @@ draft: false
 title: Syllabus
 uid: c9a55849-41a3-481e-b884-24e01be0bedc
 ---
+## Course Meeting Times
+
+Lectures: 2 sessions / week, 90 minutes / session
+
+## Prerequisites
+
+This is an introductory graduate course, although advanced undergraduates are also welcome to attempt it. Close familiarity with undergraduate algebra (groups, rings, modules etc.) will be assumed. 
+
+## Course Description
+
+The beginning of the course will cover fundamental concepts forming the basic vocabulary of the algebraic language in today’s math.  
+These include:  
+Rings, modules. (Semi)simple rings, division rings. Wedderburn Theorem, Jordan-Hoelder and Krull-Schmidt Theorem. Prime radical, Jacobson  
+radical. Artinian rings.  
+Categories: Yoneda Lemma, adjoint functors. Additive and abelian categories. Morita theory.  
+Basic homological algebra: δ-functors, Tor’s, Ext’s, group (co)homology,  
+global dimension etc.
+
+These will be followed by somewhat more specialized topics
+
+Koszul algebras.  
+Ore Localization and Goldie Theorem.  
+Central simple algebras and Brauer group.  
+PI algebras.  
+Growth of algebras.  
+Some ideas of Noncommutative geometry. 
+
+## Lecture Notes and Readings
+
+Possible references include the book by P.M. Cohn “Further  
+Algebra and Applications” (chapters 2, 4, 5, 7, 8; an earlier edition of basically the same text is volumes 2,3 of the series “Algebra” by the same  
+author); C.A. Weibel “An introduction to homological algebra” and notes  
+by Mike Artin and by Pavel Etingof available at the course website.
+
+## Homework/Exams/Grading
+
+Biweekly homework assignments will be  
+given.  
+Grades will be based on the homework.  Students are also invited to prepare an optional expository paper for extra  
+credit. Suggested topics for will be posted on the class website. Please talk  
+to the instructor before starting to work on the paper.
