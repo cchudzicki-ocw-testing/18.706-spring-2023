@@ -4,7 +4,12 @@
   "level": [
     "Graduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
