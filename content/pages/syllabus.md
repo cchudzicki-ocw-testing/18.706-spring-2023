@@ -43,8 +43,13 @@ The beginning of the course will cover fundamental concepts forming the basic vo
 
 ## Lecture Notes and Readings
 
-Possible references include the book by P.M. Cohn “Further  Algebra and Applications” (chapters 2, 4, 5, 7, 8; an earlier edition of basically the same text is volumes 2,3 of the series “Algebra” by the same  author); C.A. Weibel “An introduction to homological algebra” and notes  by Mike Artin and by Pavel Etingof available at the course website.
+There is not required textbook for the course. A full set of lecture notes are provided.  Possible other references include:
 
-## Homework/Exams/Grading
+- the book by P.M. Cohn “Further  Algebra and Applications” (chapters 2, 4, 5, 7, 8; an earlier edition of basically the same text is volumes 2,3 of the series “Algebra” by the same  author); 
+- C.A. Weibel “An introduction to homological algebra” and 
+- Notes by Prof. Mike Artin 
+- Notes by Prof. Pavel Etingof 
+
+## Assignments and Grading
 
 Biweekly homework assignments will be given.  Grades will be based on the homework.  Students are also invited to prepare an optional expository paper for extra credit.  There are no exams.
