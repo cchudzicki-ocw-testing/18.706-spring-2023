@@ -7,38 +7,47 @@ uid: 35442035-9f5f-4870-a21f-523cf1d2cd4b
 ---
 ## Optional Expository Paper
 
-Students are invited to prepare an optional expository paper for extra credit. The paper does not necessarily have to fully cover one of the items in the list below. You are also welcome to consult other sources besides of those referenced here.     
- 
+Students are invited to prepare an optional expository paper for extra credit. The paper does not necessarily have to fully cover one of the items in the list below. You are also welcome to consult other sources besides of those referenced here.  Please discuss your choice of material with the instructor before starting to work on the paper. 
 
-Please discuss your choice of material with the instructor before starting to work on the paper.     
-(1) More on representable and adjoint functors:     
-Criteria for representability of functors \[22, §V.6-8\]. Monads and comonads, Barr-Beck Theorem \[22, §VI.7\].     
-For those familiar with triangulated categories: criteria for representability of homological functors \[7\].     
-(2) Koszul rings and Koszul duality: Koszulity and distributivity, Koszul rings     
-and modules, PBW theorem, Veronese powers. \[23\]     
-(3) Operads, Koszul operads, Koszul duality for operads \[20\], \[13\].     
-(4) Derived categories and derived functors. \[27, ch. 10\], \[11\].     
-(5) Hochschild (co)homology: Hochschild-Kostant-Rosenberg Theorem, Gerstenhaber operations, Batalin-Vilkovisky algebras. Deformation theory.     
-Cyclic (co)homology. \[27, ch. 9\], \[19\].     
-(6) Some approaches to noncommutative geometry, see \[12\] for a possible general reference.     
-(a) Graded algebras as a generalization of a projective variety, \[2\], \[3\].     
-(b) Formal expansion at the commutative locus \[15\].     
-(c) Representation schemes \[16\], \[6\].     
-(d) Example of passing from noncommutative to commutative setting via characteristic p, \[5\].     
-(7) Brauer groups.     
-Brauer groups in number theory: Brauer groups of global fields \[9\],     
-Brauer-Manin obstruction \[24, §8.2\].     
-Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].     
-(8) Elements of invariant theory, variety of representations, Procesi Theorem, \[1, V.13-V.15\].     
-(9) Growth of algebras and growth of groups, \[17\].     
-(10) Primitive ideals in enveloping algebras, Goldie rank polynomials. \[8\], \[14\]     
-(11) Golod-Shafarevich algebras and groups and their applications \[10\].     
-(12) Algebraic relation between groups and Lie algebras: Maltsev type completions in zero and positive characteristic \[25, Appendix A3\], \[26\] and     
+  
+(1) More on representable and adjoint functors:      
+Criteria for representability of functors \[22, §V.6-8\]. Monads and comonads, Barr-Beck Theorem \[22, §VI.7\].      
+For those familiar with triangulated categories: criteria for representability of homological functors \[7\].    
+
+(2) Koszul rings and Koszul duality: Koszulity and distributivity, Koszul rings      
+and modules, PBW theorem, Veronese powers. \[23\]    
+
+(3) Operads, Koszul operads, Koszul duality for operads \[20\], \[13\].    
+
+(4) Derived categories and derived functors. \[27, ch. 10\], \[11\].    
+
+(5) Hochschild (co)homology: Hochschild-Kostant-Rosenberg Theorem, Gerstenhaber operations, Batalin-Vilkovisky algebras. Deformation theory. Cyclic (co)homology. \[27, ch. 9\], \[19\].    
+
+(6) Some approaches to noncommutative geometry, see \[12\] for a possible general reference.      
+(a) Graded algebras as a generalization of a projective variety, \[2\], \[3\].      
+(b) Formal expansion at the commutative locus \[15\].      
+(c) Representation schemes \[16\], \[6\].      
+(d) Example of passing from noncommutative to commutative setting via characteristic p, \[5\].    
+
+(7) Brauer groups.      
+Brauer groups in number theory: Brauer groups of global fields \[9\],      
+Brauer-Manin obstruction \[24, §8.2\].      
+Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
+
+(8) Elements of invariant theory, variety of representations, Procesi Theorem, \[1, V.13-V.15\].    
+
+(9) Growth of algebras and growth of groups, \[17\].    
+
+(10) Primitive ideals in enveloping algebras, Goldie rank polynomials. \[8\], \[14\]    
+
+(11) Golod-Shafarevich algebras and groups and their applications \[10\].    
+
+(12) Algebraic relation between groups and Lie algebras: Maltsev type completions in zero and positive characteristic \[25, Appendix A3\], \[26\] and      
 applications; Jennings-Quillen Theorem \[4, §3.14\].
 
  
 
-References     
+## References      
 \[1\] M. Artin, Noncommutative algebra, notes available on the course website
 
 \[2\] M. Artin, W. Schleter, Graded algebras of global dimension 3, Adv. in Math. 66 (1987), no. 2, 171-216.
