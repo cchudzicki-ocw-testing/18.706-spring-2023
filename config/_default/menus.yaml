@@ -3,9 +3,9 @@ leftnav:
   name: Syllabus
   pageRef: /pages/syllabus
   weight: 10
-- identifier: 75424b2c-57f9-4d04-9f61-9ec776a9c3a0
+- identifier: 6a2c3f5d-4e21-4510-9b50-90cf7dbf9001
   name: Lecture Notes
-  pageRef: /pages/lecture-notes
+  pageRef: /lists/lecture-notes
   weight: 20
 - identifier: ab431674-995b-4aa0-8c53-87af73997562
   name: Assignments
