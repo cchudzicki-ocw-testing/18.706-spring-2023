@@ -11,9 +11,9 @@ leftnav:
   name: Assignments
   pageRef: /pages/assignments
   weight: 30
-- identifier: e65b6f16-caa7-423d-a59c-e60920faaab9
+- identifier: 890fcc55-0de6-4ef7-b1db-67a715580ddb
   name: Study Materials
-  pageRef: /pages/study-materials
+  pageRef: /lists/study-materials
   weight: 40
 - identifier: a8c93b96-4e6d-4129-9ea5-ac724e001f9e
   name: Problem Sets
