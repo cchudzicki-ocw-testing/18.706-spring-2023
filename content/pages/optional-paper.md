@@ -13,8 +13,8 @@ Please discuss your choice of material with the instructor before starting to wo
 
 ## Possible Topics
 
-(1) More on representable and adjoint functors:     
-Criteria for representability of functors \[22, §V.6-8\]. Monads and comonads, Barr-Beck Theorem \[22, §VI.7\].    
+(1) More on representable and adjoint functors:      
+Criteria for representability of functors \[22, §V.6-8\]. Monads and comonads, Barr-Beck Theorem \[22, §VI.7\].     
 For those familiar with triangulated categories: criteria for representability of homological functors \[7\].    
 
 (2) Koszul rings and Koszul duality: Koszulity and distributivity, Koszul rings and modules, PBW theorem, Veronese powers. \[23\]    
@@ -25,14 +25,14 @@ For those familiar with triangulated categories: criteria for representability o
 
 (5) Hochschild (co)homology: Hochschild-Kostant-Rosenberg Theorem, Gerstenhaber operations, Batalin-Vilkovisky algebras. Deformation theory. Cyclic (co)homology. \[27, ch. 9\], \[19\].    
 
-(6) Some approaches to noncommutative geometry, see \[12\] for a possible general reference.            
-      (a) Graded algebras as a generalization of a projective variety, \[2\], \[3\].            
-      (b) Formal expansion at the commutative locus \[15\].            
-      (c) Representation schemes \[16\], \[6\].            
+(6) Some approaches to noncommutative geometry, see \[12\] for a possible general reference.             
+      (a) Graded algebras as a generalization of a projective variety, \[2\], \[3\].             
+      (b) Formal expansion at the commutative locus \[15\].             
+      (c) Representation schemes \[16\], \[6\].             
       (d) Example of passing from noncommutative to commutative setting via characteristic p, \[5\].    
 
-(7) Brauer groups.            
-Brauer groups in number theory: Brauer groups of global fields \[9\], Brauer-Manin obstruction \[24, §8.2\].            
+(7) Brauer groups.             
+Brauer groups in number theory: Brauer groups of global fields \[9\], Brauer-Manin obstruction \[24, §8.2\].             
 Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
 
 (8) Elements of invariant theory, variety of representations, Procesi Theorem, \[1, V.13-V.15\].    
@@ -49,11 +49,11 @@ Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
 
 ## References    
 
-\[1\] M. Artin, *Noncommutative algebra*, notes available on the course website
+\[1\] M. Artin, *Noncommutative algebra*, notes available in the {{% resource_link "890fcc55-0de6-4ef7-b1db-67a715580ddb" "Study Materials section" %}}
 
-\[2\] M. Artin, W. Schleter, Graded algebras of global dimension 3, Adv. in Math. 66 (1987), no. 2, 171-216.
+\[2\] M. Artin, W. Schleter, [*Graded algebras of global dimension 3*](https://www.sciencedirect.com/science/article/pii/000187088790034X), Adv. in Math. 66 (1987), no. 2, 171-216.
 
-\[3\] M. Artin, J.J. Zhang, Noncommutative projective schemes, Adv. Math. 109 (1994), no. 2,  228-287.   
+\[3\] M. Artin, J.J. Zhang, [*Noncommutative projective schemes*](https://www.sciencedirect.com/science/article/pii/S0001870884710875), Adv. Math. 109 (1994), no. 2,  228-287.   
 
 \[4\] D. Benson ”Representations and cohomology, I”.   
 
