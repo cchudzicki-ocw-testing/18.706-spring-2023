@@ -13,8 +13,8 @@ Please discuss your choice of material with the instructor before starting to wo
 
 ## Possible Topics
 
-(1) More on representable and adjoint functors:                    
-Criteria for representability of functors \[22, §V.6-8\]. Monads and comonads, Barr-Beck Theorem \[22, §VI.7\].                   
+(1) More on representable and adjoint functors:                     
+Criteria for representability of functors \[22, §V.6-8\]. Monads and comonads, Barr-Beck Theorem \[22, §VI.7\].                    
 For those familiar with triangulated categories: criteria for representability of homological functors \[7\].    
 
 (2) Koszul rings and Koszul duality: Koszulity and distributivity, Koszul rings and modules, PBW theorem, Veronese powers. \[23\]    
@@ -25,14 +25,14 @@ For those familiar with triangulated categories: criteria for representability o
 
 (5) Hochschild (co)homology: Hochschild-Kostant-Rosenberg Theorem, Gerstenhaber operations, Batalin-Vilkovisky algebras. Deformation theory. Cyclic (co)homology. \[27, ch. 9\], \[19\].    
 
-(6) Some approaches to noncommutative geometry, see \[12\] for a possible general reference.                           
-      (a) Graded algebras as a generalization of a projective variety, \[2\], \[3\].                           
-      (b) Formal expansion at the commutative locus \[15\].                           
-      (c) Representation schemes \[16\], \[6\].                           
+(6) Some approaches to noncommutative geometry, see \[12\] for a possible general reference.                            
+      (a) Graded algebras as a generalization of a projective variety, \[2\], \[3\].                            
+      (b) Formal expansion at the commutative locus \[15\].                            
+      (c) Representation schemes \[16\], \[6\].                            
       (d) Example of passing from noncommutative to commutative setting via characteristic p, \[5\].    
 
-(7) Brauer groups.                           
-Brauer groups in number theory: Brauer groups of global fields \[9\], Brauer-Manin obstruction \[24, §8.2\].                           
+(7) Brauer groups.                            
+Brauer groups in number theory: Brauer groups of global fields \[9\], Brauer-Manin obstruction \[24, §8.2\].                            
 Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
 
 (8) Elements of invariant theory, variety of representations, Procesi Theorem, \[1, V.13-V.15\].    
@@ -93,12 +93,12 @@ Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
 
 \[22\] S. MacLane, [*Categories for the working mathematician*](https://www.worldcat.org/title/267783) 
 
-\[23\] A. Polishchuk, L. Positselski, ”Quadratic algebras”   
+\[23\] A. Polishchuk, L. Positselski, [*Quadratic algebras*](https://djvu.online/file/T1DOlccPNeqX0)
 
-\[24\] Poonen Bjorn. 2017. [*Rational Points on Varieties*.](https://www.worldcat.org/title/987437380) Providence Rhode Island: American Mathematical Society. ISBN: 9781470437732
+\[24\] B. Poonen  [*Rational Points on Varieties*.](https://www.worldcat.org/title/987437380)
 
-\[25\] D. Quillen, Rational homotopy theory, Ann, Math. 90 (1969) 205-295.   
+\[25\] D. Quillen, "[Rational homotopy theory](https://link.springer.com/chapter/10.1007/978-1-4614-8468-4_17)." Ann, Math. 90 (1969) 205-295.   
 
-\[26\] D. Quillen, On the associated graded of a group ring, Journal of Algebra, 10 (1968) 411-418.   
+\[26\] D. Quillen, "[On the associated graded of a group ring](https://www.sciencedirect.com/science/article/pii/0021869368900690)" Journal of Algebra, 10 (1968) 411-418.   
 
-\[27\]  Weibel CA. [*An Introduction to Homological Algebra*](https://www.worldcat.org/title/27935084). Cambridge England: Cambridge University Press; 1994.  ISBN: 9780521435000
+\[27\] C. Weibel,  [*An Introduction to Homological Algebra*](https://www.worldcat.org/title/27935084).
