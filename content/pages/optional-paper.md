@@ -13,8 +13,8 @@ Please discuss your choice of material with the instructor before starting to wo
 
 ## Possible Topics
 
-(1) More on representable and adjoint functors:                
-Criteria for representability of functors \[22, §V.6-8\]. Monads and comonads, Barr-Beck Theorem \[22, §VI.7\].               
+(1) More on representable and adjoint functors:                 
+Criteria for representability of functors \[22, §V.6-8\]. Monads and comonads, Barr-Beck Theorem \[22, §VI.7\].                
 For those familiar with triangulated categories: criteria for representability of homological functors \[7\].    
 
 (2) Koszul rings and Koszul duality: Koszulity and distributivity, Koszul rings and modules, PBW theorem, Veronese powers. \[23\]    
@@ -25,14 +25,14 @@ For those familiar with triangulated categories: criteria for representability o
 
 (5) Hochschild (co)homology: Hochschild-Kostant-Rosenberg Theorem, Gerstenhaber operations, Batalin-Vilkovisky algebras. Deformation theory. Cyclic (co)homology. \[27, ch. 9\], \[19\].    
 
-(6) Some approaches to noncommutative geometry, see \[12\] for a possible general reference.                       
-      (a) Graded algebras as a generalization of a projective variety, \[2\], \[3\].                       
-      (b) Formal expansion at the commutative locus \[15\].                       
-      (c) Representation schemes \[16\], \[6\].                       
+(6) Some approaches to noncommutative geometry, see \[12\] for a possible general reference.                        
+      (a) Graded algebras as a generalization of a projective variety, \[2\], \[3\].                        
+      (b) Formal expansion at the commutative locus \[15\].                        
+      (c) Representation schemes \[16\], \[6\].                        
       (d) Example of passing from noncommutative to commutative setting via characteristic p, \[5\].    
 
-(7) Brauer groups.                       
-Brauer groups in number theory: Brauer groups of global fields \[9\], Brauer-Manin obstruction \[24, §8.2\].                       
+(7) Brauer groups.                        
+Brauer groups in number theory: Brauer groups of global fields \[9\], Brauer-Manin obstruction \[24, §8.2\].                        
 Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
 
 (8) Elements of invariant theory, variety of representations, Procesi Theorem, \[1, V.13-V.15\].    
@@ -77,11 +77,11 @@ Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
 
 \[14\] J.-C. Jantzen, ”[Einhullende Algebren halbeinfacher Lie-Algebren](https://www.worldcat.org/title/10192803)." 
 
-\[15\] M. Kapranov Noncommutative geometry based on commutator expansions, J. Reine Angew. Math. 505 (1998), 73-118.   
+\[15\] M. Kapranov "[Noncommutative geometry based on commutator expansions](https://arxiv.org/abs/math/9802041)." J. Reine Angew. Math. 505 (1998), 73-118.   
 
-\[16\] M. Kontsevich, A. Rosenberg, Noncommutative smooth spaces, The Gelfand Mathematical Seminars, 1996-1999, Gelfand Math. Sem., Birkh¨auser Boston. Boston, MA. 2000. pp. 85-108.   
+\[16\] M. Kontsevich, A. Rosenberg "[Noncommutative smooth spaces](https://arxiv.org/abs/math/9812158)." The Gelfand Mathematical Seminars, 1996-1999, Gelfand Math. Sem., Birkh¨auser Boston. Boston, MA. 2000. pp. 85-108.   
 
-\[17\] R. Krause, H. Lenagan, ”Growth of algebras and Gelfand-Kirillov dimension”.   
+\[17\] R. Krause, H. Lenagan, [*Growth of algebras and Gelfand-Kirillov dimension*](https://www.ams.org/books/gsm/022/)   
 
 \[18\] T.Y. Lam, ”Introduction to quadratic forms over fields”.   
 
