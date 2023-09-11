@@ -13,8 +13,8 @@ Please discuss your choice of material with the instructor before starting to wo
 
 ## Possible Topics
 
-(1) More on representable and adjoint functors:                   
-Criteria for representability of functors \[22, §V.6-8\]. Monads and comonads, Barr-Beck Theorem \[22, §VI.7\].                  
+(1) More on representable and adjoint functors:                    
+Criteria for representability of functors \[22, §V.6-8\]. Monads and comonads, Barr-Beck Theorem \[22, §VI.7\].                   
 For those familiar with triangulated categories: criteria for representability of homological functors \[7\].    
 
 (2) Koszul rings and Koszul duality: Koszulity and distributivity, Koszul rings and modules, PBW theorem, Veronese powers. \[23\]    
@@ -25,14 +25,14 @@ For those familiar with triangulated categories: criteria for representability o
 
 (5) Hochschild (co)homology: Hochschild-Kostant-Rosenberg Theorem, Gerstenhaber operations, Batalin-Vilkovisky algebras. Deformation theory. Cyclic (co)homology. \[27, ch. 9\], \[19\].    
 
-(6) Some approaches to noncommutative geometry, see \[12\] for a possible general reference.                          
-      (a) Graded algebras as a generalization of a projective variety, \[2\], \[3\].                          
-      (b) Formal expansion at the commutative locus \[15\].                          
-      (c) Representation schemes \[16\], \[6\].                          
+(6) Some approaches to noncommutative geometry, see \[12\] for a possible general reference.                           
+      (a) Graded algebras as a generalization of a projective variety, \[2\], \[3\].                           
+      (b) Formal expansion at the commutative locus \[15\].                           
+      (c) Representation schemes \[16\], \[6\].                           
       (d) Example of passing from noncommutative to commutative setting via characteristic p, \[5\].    
 
-(7) Brauer groups.                          
-Brauer groups in number theory: Brauer groups of global fields \[9\], Brauer-Manin obstruction \[24, §8.2\].                          
+(7) Brauer groups.                           
+Brauer groups in number theory: Brauer groups of global fields \[9\], Brauer-Manin obstruction \[24, §8.2\].                           
 Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
 
 (8) Elements of invariant theory, variety of representations, Procesi Theorem, \[1, V.13-V.15\].    
@@ -91,7 +91,7 @@ Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
 
 \[21\] J. Lurie, lectures ”Brauer Groups in Chromatic Homotopy Theory”, lecture 1, available on youtube.   
 
-\[22\] S. MacLane, ”Categories for the working mathematician”   
+\[22\] S. MacLane, [*Categories for the working mathematician*](https://www.worldcat.org/title/267783) 
 
 \[23\] A. Polishchuk, L. Positselski, ”Quadratic algebras”   
 
