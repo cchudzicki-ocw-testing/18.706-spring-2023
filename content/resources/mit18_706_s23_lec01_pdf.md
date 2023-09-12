@@ -13,8 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 1: Introduction, Simple and Semisimple
-  Modules, Skew Fields'
+title: '18.706 Noncommutative Algebra (S23), Lecture 01: Introduction, Simple and
+  Semisimple Modules, Skew Fields'
 uid: d7c59a5d-877f-409e-a9b8-e5f279655e34
 video_files:
   archive_url: ''
