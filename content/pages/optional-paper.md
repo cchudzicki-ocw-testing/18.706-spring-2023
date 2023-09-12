@@ -13,8 +13,8 @@ Please discuss your choice of material with the instructor before starting to wo
 
 ## Possible Topics
 
-(1) More on representable and adjoint functors:                     
-Criteria for representability of functors \[22, §V.6-8\]. Monads and comonads, Barr-Beck Theorem \[22, §VI.7\].                    
+(1) More on representable and adjoint functors:                      
+Criteria for representability of functors \[22, §V.6-8\]. Monads and comonads, Barr-Beck Theorem \[22, §VI.7\].                     
 For those familiar with triangulated categories: criteria for representability of homological functors \[7\].    
 
 (2) Koszul rings and Koszul duality: Koszulity and distributivity, Koszul rings and modules, PBW theorem, Veronese powers. \[23\]    
@@ -25,14 +25,14 @@ For those familiar with triangulated categories: criteria for representability o
 
 (5) Hochschild (co)homology: Hochschild-Kostant-Rosenberg Theorem, Gerstenhaber operations, Batalin-Vilkovisky algebras. Deformation theory. Cyclic (co)homology. \[27, ch. 9\], \[19\].    
 
-(6) Some approaches to noncommutative geometry, see \[12\] for a possible general reference.                            
-      (a) Graded algebras as a generalization of a projective variety, \[2\], \[3\].                            
-      (b) Formal expansion at the commutative locus \[15\].                            
-      (c) Representation schemes \[16\], \[6\].                            
+(6) Some approaches to noncommutative geometry, see \[12\] for a possible general reference.                             
+      (a) Graded algebras as a generalization of a projective variety, \[2\], \[3\].                             
+      (b) Formal expansion at the commutative locus \[15\].                             
+      (c) Representation schemes \[16\], \[6\].                             
       (d) Example of passing from noncommutative to commutative setting via characteristic p, \[5\].    
 
-(7) Brauer groups.                            
-Brauer groups in number theory: Brauer groups of global fields \[9\], Brauer-Manin obstruction \[24, §8.2\].                            
+(7) Brauer groups.                             
+Brauer groups in number theory: Brauer groups of global fields \[9\], Brauer-Manin obstruction \[24, §8.2\].                             
 Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
 
 (8) Elements of invariant theory, variety of representations, Procesi Theorem, \[1, V.13-V.15\].    
@@ -51,15 +51,15 @@ Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
 
 \[1\] M. Artin, *Noncommutative algebra*, notes available in the {{% resource_link "890fcc55-0de6-4ef7-b1db-67a715580ddb" "Study Materials section" %}}
 
-\[2\] M. Artin, W. Schleter, "[Graded algebras of global dimension 3](https://www.sciencedirect.com/science/article/pii/000187088790034X)." Adv. in Math. 66 (1987), no. 2, 171-216.
+\[2\] M. Artin, W. Schleter, "[Graded algebras of global dimension 3](https://www.sciencedirect.com/science/article/pii/000187088790034X)." 
 
-\[3\] M. Artin, J.J. Zhang, "[Noncommutative projective schemes](https://www.sciencedirect.com/science/article/pii/S0001870884710875)."Adv. Math. 109 (1994), no. 2,  228-287.   
+\[3\] M. Artin, J.J. Zhang, "[Noncommutative projective schemes](https://www.sciencedirect.com/science/article/pii/S0001870884710875)."
 
 \[4\] D. Benson [*Representations and cohomology, I*](https://www.worldcat.org/title/715181042)
 
 \[5\] A. Belov-Kanel, M. Kontsevich, "[The Jacobian conjecture is stably equivalent to the Dixmier conjecture](https://arxiv.org/abs/math/0512171); [Automorphisms of the Weyl algebra](https://arxiv.org/abs/math/0512169)." 
 
-\[6\] Yu. Berest, G. Felder, A. Ramadoss, "[Derived representation schemes and noncommutative geometry](https://arxiv.org/abs/1304.5314), [Expository lectures on representation theory](https://www.ams.org/books/conm/607/conm607-endmatter.pdf)*."* 113-162, Contemp. Math., 607, Amer. Math. Soc., Providence, RI, 2014.   
+\[6\] Yu. Berest, G. Felder, A. Ramadoss, "[Derived representation schemes and noncommutative geometry](https://arxiv.org/abs/1304.5314), [Expository lectures on representation theory](https://www.ams.org/books/conm/607/conm607-endmatter.pdf)*."*   
 
 \[7\] A. Bondal, M. van den Bergh, "[Generators and representability of functors in commutative and noncommutative geometry](https://arxiv.org/abs/math/0204218)."  
 
@@ -73,13 +73,13 @@ Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
 
 \[12\] V. Ginzburg, "[Lectures on noncommutative geometry](https://arxiv.org/abs/math/0506603)."
 
-\[13\] V. Ginzburg, M. Kapranov, "[Koszul duality for operads](https://arxiv.org/abs/0709.1228v1)." Duke Math. J. 76 (1994), no. 1, 203-272.   
+\[13\] V. Ginzburg, M. Kapranov, "[Koszul duality for operads](https://arxiv.org/abs/0709.1228v1)."   
 
 \[14\] J.-C. Jantzen, ”[Einhullende Algebren halbeinfacher Lie-Algebren](https://www.worldcat.org/title/10192803)." 
 
-\[15\] M. Kapranov "[Noncommutative geometry based on commutator expansions](https://arxiv.org/abs/math/9802041)." J. Reine Angew. Math. 505 (1998), 73-118.   
+\[15\] M. Kapranov "[Noncommutative geometry based on commutator expansions](https://arxiv.org/abs/math/9802041)." 
 
-\[16\] M. Kontsevich, A. Rosenberg "[Noncommutative smooth spaces](https://arxiv.org/abs/math/9812158)." The Gelfand Mathematical Seminars, 1996-1999, Gelfand Math. Sem., Birkh¨auser Boston. Boston, MA. 2000. pp. 85-108.   
+\[16\] M. Kontsevich, A. Rosenberg "[Noncommutative smooth spaces](https://arxiv.org/abs/math/9812158)." 
 
 \[17\] R. Krause, H. Lenagan, [*Growth of algebras and Gelfand-Kirillov dimension*](https://www.ams.org/books/gsm/022/)   
 
@@ -97,8 +97,8 @@ Generalizations of Brauer group, Brauer-Wall group \[21\], \[18\].    
 
 \[24\] B. Poonen  [*Rational Points on Varieties*.](https://www.worldcat.org/title/987437380)
 
-\[25\] D. Quillen, "[Rational homotopy theory](https://link.springer.com/chapter/10.1007/978-1-4614-8468-4_17)." Ann, Math. 90 (1969) 205-295.   
+\[25\] D. Quillen, "[Rational homotopy theory](https://link.springer.com/chapter/10.1007/978-1-4614-8468-4_17)."    
 
-\[26\] D. Quillen, "[On the associated graded of a group ring](https://www.sciencedirect.com/science/article/pii/0021869368900690)" Journal of Algebra, 10 (1968) 411-418.   
+\[26\] D. Quillen, "[On the associated graded of a group ring](https://www.sciencedirect.com/science/article/pii/0021869368900690)." 
 
 \[27\] C. Weibel,  [*An Introduction to Homological Algebra*](https://www.worldcat.org/title/27935084).
