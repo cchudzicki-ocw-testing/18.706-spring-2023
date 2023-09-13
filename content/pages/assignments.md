@@ -5,16 +5,6 @@ draft: false
 title: Assignments
 uid: ab431674-995b-4aa0-8c53-87af73997562
 ---
-## Problem Sets
+{{% resource_link "a8c93b96-4e6d-4129-9ea5-ac724e001f9e" "Problem Sets" %}} 
 
-Problem Set 1 (PDF)
-
-Problem Set 2 (PDF)
-
-Problem Set 3 (PDF)
-
-Problem Set 4 (PDF)
-
-Problem Set 5 (PDF)
-
-Problem Set 6 (PDF)
+{{% resource_link "35442035-9f5f-4870-a21f-523cf1d2cd4b" "Optional Paper" %}}
